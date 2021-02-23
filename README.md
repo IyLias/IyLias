@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
+
 [![IyLias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyLias)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+ 😎 Interested in PS
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjkwon9707)](https://solved.ac/sjkwon9707)
