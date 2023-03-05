@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- 🌱 Skills
+ ### 🌱 Skills
 
 ![](https://img.shields.io/badge/-C-green) 
 ![](https://img.shields.io/badge/-C%2B%2B-yellowgreen)
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Python-lightgrey)
 
 
-⚡ Interest 
+### ⚡ Interest 
    
    * Quant Investing and analyzing stock market
    * Creative Digital art 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-✨ Activity
+### ✨ Activity
 
 [![IyLias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyLias)](https://github.com/anuraghazra/github-readme-stats)
 
