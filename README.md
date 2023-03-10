@@ -29,11 +29,13 @@ Here are some ideas to get you started:
    * Quant Investing and analyzing stock market
    * Creative Digital art 
    * Data Analysis 
-
+   * PS &nbsp; [![Solved.ac 
+    profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sjkwon9707)](https://solved.ac/sjkwon9707)
+ 
 
 
 
 ### ✨ Activity
 
-[![IyLias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyLias)](https://github.com/anuraghazra/github-readme-stats)
+[![IyLias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyLias&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
