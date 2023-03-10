@@ -37,5 +37,4 @@ Here are some ideas to get you started:
 
 ### ✨ Activity
 
-[![IyLias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyLias&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![IyLias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyLias&show_icons=true&theme=radical)
