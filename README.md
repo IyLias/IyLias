@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/-C-green) 
 ![](https://img.shields.io/badge/-C%2B%2B-yellowgreen)
-![](https://img.shields.io/badge/-Javascript-blue)
-![](https://img.shields.io/badge/-Python-lightgrey)
-
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-react-61DAFB?style=flat&logo=react&logoColor=black">
 
 ### ⚡ Interest 
    
