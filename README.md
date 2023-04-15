@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ### ✨ Activity
 
-![IyLias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyLias&show_icons=true&theme=radical)
+![IyLias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyLias&show_icons=true&theme=onedark)
