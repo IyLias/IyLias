@@ -28,7 +28,7 @@ I'm interested in creating huge value from codes
    * Creative Digital art 🎨
    * Data Analysis 
    * PS &nbsp; [![Solved.ac 
-    profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sjkwon9707)](https://solved.ac/sjkwon9707)
+    profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyrin)](https://solved.ac/kyrin)
 
  
  ## 🌱 Skills
