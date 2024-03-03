@@ -26,9 +26,7 @@ I'm interested in creating huge value from codes
    * Quant Investing and analyzing stock market 📈
    * Chess Lover, chess AI with reinforcement learning ♟️
    * Creative Digital art 🎨
-   * Data Analysis 
-   * PS &nbsp; [![Solved.ac 
-    profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyrin)](https://solved.ac/kyrin)
+
 
  
  ## 🌱 Skills
