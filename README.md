@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 ## Who Am I?
 
-Always curious about the essence and principles of everything around the world, 
-my curiosity deepened into the system of Mathematics upon entering university. I believe that programming and math are the best tools for explaining the world.
+Always curious about the essence and principles of everything around the world. <br>
+My curiosity deepened through the study of Mathematics. <br><br>
+I believe that programming and math are the best tools for explaining the world.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Le_penseur_de_la_Porte_de_lEnfer_%28mus%C3%A9e_Rodin%29_%284528252054%29.jpg/260px-Le_penseur_de_la_Porte_de_lEnfer_%28mus%C3%A9e_Rodin%29_%284528252054%29.jpg" width="600" height="450">
+<img src="https://www.musee-rodin.fr/sites/default/files/styles/carrousel_medium/public/2020-12/incontournables.jpg?itok=EuR_c1ll" width="500" height="400">
 
 <br>
 
