@@ -17,29 +17,24 @@ Here are some ideas to get you started:
 
 ## Who Am I?
 
-I consider programming an art 🎨 <br>
-I'm interested in creating huge value from codes
+Always curious about the essence and principles of everything around the world, 
+my curiosity deepened into the system of Mathematics upon entering university. I believe that programming and math are the best tools for explaining the world.
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Le_penseur_de_la_Porte_de_lEnfer_%28mus%C3%A9e_Rodin%29_%284528252054%29.jpg/260px-Le_penseur_de_la_Porte_de_lEnfer_%28mus%C3%A9e_Rodin%29_%284528252054%29.jpg" width="600" height="450">
+
+<br>
 
 ## ⚡ Interests 
    
    * Quant Investing and analyzing stock market 📈
+     
    * Chess Lover, chess AI with reinforcement learning ♟️
+
    * Creative Digital art 🎨
 
 
- 
- ## 🌱 Skills
-
-![](https://img.shields.io/badge/-C-green) 
-![](https://img.shields.io/badge/-C%2B%2B-yellowgreen)
-<img src ="https://img.shields.io/badge/-C%23-33A8FF?style=flat&logo=Csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-react-61DAFB?style=flat&logo=react&logoColor=black">
-
-
+<br>
 
 ### ✨ Activity
 
