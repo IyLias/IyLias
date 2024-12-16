@@ -18,18 +18,19 @@ Here are some ideas to get you started:
 ## Who Am I?
 
 Always curious about the essence and principles of everything around the world. <br>
-My curiosity deepened through the study of Mathematics. <br><br>
-I believe that programming and math are the best tools for explaining the world.
-
+My curiosity deepened through the study of Mathematics. <br>
 
 <img src="https://www.musee-rodin.fr/sites/default/files/styles/carrousel_medium/public/2020-12/incontournables.jpg?itok=EuR_c1ll" width="500" height="400">
 
 
 
-## ⚡ Interests 
+## 💭 
+
+   * Graph Coloring 
+
+   * Reinforcement Learning
    
    * Quant Investing and analyzing stock market 📈
      
-   * Chess Lover, chess AI with reinforcement learning ♟️
+   * Chess Lover ♟️
 
-   * Creative Digital art 🎨
