@@ -26,11 +26,26 @@ My curiosity deepened through the study of Mathematics. <br>
 
 ## 💭 
 
-   * Graph Coloring 
+  🎨 **Jinikal Art**
+  - [GitHub Repo](https://github.com/IyLias/jinikal-art) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/IyLias/jinikal-art)  
+  - [Official Jinikal Art Website](https://jinikalart.com) | [![Website](https://img.shields.io/badge/Website-jinikalart.com-brightgreen?logo=vercel)](https://jinikalart.com)
 
-   * Reinforcement Learning
-   
-   * Quant Investing and analyzing stock market 📈
+  <br>
      
-   * Chess Lover ♟️
+  🧩 **Graph Coloring**
+  - [Chromatic Polynomial Calculator](https://github.com/IyLias/chromatic-polynomial-calculator) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/IyLias/chromatic-polynomial-calculator)
+  - [RLTB (Reinforcement Learning + Tabucol)](https://github.com/IyLias/graph-coloring-RLTB) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/IyLias/graph-coloring-RLTB)
+  
+
+  <br>
+
+  🤖 Reinforcement Learning
+
+  <br>
+   
+  📈 Quant Investing and analyzing stock market 📈
+ 
+  <br>
+     
+  ♟️ Chess Lover 
 
