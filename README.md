@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## Who Am I?
 
-Always curious about the essence and principles of everything around the world. <br>
-My curiosity deepened through the study of Mathematics. <br>
+Always curious about the essence and principles of everything around the world.  <br>
+Currently, I am conducting research and building businesses to explore how I can bring value to the world. <br>
 
 <img src="https://www.musee-rodin.fr/sites/default/files/styles/carrousel_medium/public/2020-12/incontournables.jpg?itok=EuR_c1ll" width="500" height="400">
 
