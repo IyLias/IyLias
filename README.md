@@ -27,7 +27,7 @@ My curiosity deepened through the study of Mathematics. <br>
 ## 💭 
 
   🎨 **Jinikal Art**
-  - [GitHub Repo](https://github.com/IyLias/jinikal-art) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/IyLias/jinikal-art)  
+  - [GitHub Repo](https://github.com/IyLias/JinikalArt) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/IyLias/jinikal-art)  
   - [Official Jinikal Art Website](https://jinikalart.com) | [![Website](https://img.shields.io/badge/Website-jinikalart.com-brightgreen?logo=vercel)](https://jinikalart.com)
 
   <br>
