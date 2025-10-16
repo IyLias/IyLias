@@ -28,7 +28,7 @@ Currently, I am conducting research and building businesses to explore how I can
 
   🎨 **Jinikal Art**
   - [GitHub Repo](https://github.com/IyLias/JinikalArt) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/IyLias/jinikal-art)  
-  - [Official Jinikal Art Website](https://jinikalart.com) | [![Website](https://img.shields.io/badge/Website-jinikalart.com-brightgreen?logo=vercel)](https://jinikalart.com)
+  - [Official Jinikal Art Website](https://jinikal.art) | [![Website](https://img.shields.io/badge/Website-jinikalart.com-brightgreen?logo=vercel)](https://jinikal.art)
 
   <br>
      
