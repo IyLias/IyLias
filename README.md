@@ -39,13 +39,20 @@ Currently, I am conducting research and building businesses to explore how I can
 
   <br>
 
-  🤖 Reinforcement Learning
-
+  🤖 **Reinforcement Learning**
+  - [Applying Reinforcement Learning to Solve the Graph Coloring Problem (GCP)](https://github.com/IyLias/graph-coloring-RLTB) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/IyLias/graph-coloring-RLTB)
+  
+   
   <br>
    
-  📈 Quant Investing and analyzing stock market 📈
+   📍 **MeSpace**
+  
+  
+  <br>
+   
+  📈 **Quant Investing and analyzing stock market** 📈
  
   <br>
      
-  ♟️ Chess Lover 
+  ♟️ **Chess Lover** 
 
