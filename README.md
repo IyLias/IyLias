@@ -45,7 +45,7 @@ Currently, I am conducting research and building businesses to explore how I can
    
   <br>
    
-   🗺️ **MeSpace** (Currently under active development)   
+   🗺️ **MeSpace** (Currently under development)   
   
   <br>
    
