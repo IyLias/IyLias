@@ -42,10 +42,6 @@ Currently, I am conducting research and building businesses to explore how I can
   🤖 **Reinforcement Learning**
   - [Applying Reinforcement Learning to Solve the Graph Coloring Problem (GCP)](https://github.com/IyLias/graph-coloring-RLTB) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/IyLias/graph-coloring-RLTB)
   
-   
-  <br>
-   
-   🗺️ **MeSpace** (Currently under development)   
   
   <br>
    
